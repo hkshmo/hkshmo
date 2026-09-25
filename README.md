@@ -29,7 +29,7 @@ Based in **Moscow, Russia**. Open to full-time, part-time, and project work — 
 | Area | Tools |
 | --- | --- |
 | Frontend | React, Next.js, TypeScript, JavaScript, HTML, CSS |
-| Backend & automation | Python, Go, Node.js, Telegram Bot API, tRPC |
+| Backend & automation | Python, Go, Node.js, Telegram Bot API, FACEIT API, tRPC |
 | Databases | PostgreSQL, MySQL |
 | Infrastructure | Linux, Nginx, Docker, Docker Compose, Git, GitHub, GitLab CI/CD |
 | Business systems | 1C integrations, Bitrix24 webhooks, PDF / Excel / Word processing |
